@@ -1,0 +1,11 @@
+,
+Flash Cards Configuration,
+,
+Customize your Flash Cards Game by adjusting the values below.,
+Find out more at https://triviatemplate.com,
+,
+Key,Value
+Title,My Electronics Glossary
+QuestionsPerGame,5
+QuestionTitle,Question
+AnswerTitle,Answer
